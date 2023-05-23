@@ -13,7 +13,7 @@ Large	lg	≥992px -->
 	<div class="col-lg HERO-TEXT">
 		<h1>AI Saturdays Ibadan</h1>
 		<p>Igniting AI Excellence and Revolutionizing Technological Innovation!</p>
-		<a href="" class="btn btn-primary">JOIN US</a>
+		<a href="" class="btn btn-success">JOIN US</a>
 	</div>
 </section>
 
