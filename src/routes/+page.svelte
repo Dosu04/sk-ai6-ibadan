@@ -54,7 +54,25 @@ Large	lg	≥992px -->
 			</div>
 		</div>
 	</div>
+
+	<div class="row ABOUT">
+		<div class="col-lg-6 mb-3">
+			<h5>Who we are</h5>
+			<p>We are a vibrant learning community dedicated to advancing Artificial Intelligence (AI) in Ibadan. Our mission is to foster a collaborative environment where AI enthusiasts can come together to explore and deepen their knowledge in core AI fields such as Machine Learning, Computer Vision (CV), and Natural Language Processing (NLP).
+
+			</p>
+		</div>
+		
+		<div class="col-lg-6 mb-3">
+			<h5>What we do</h5>
+			<p>With the 4th industrial revolution on the horizon, we understand the immense potential of Artificial Intelligence to transform industries. We are committed to preparing ourselves and the next generation of AI practitioners in Ibadan to be at the forefront of this revolution. Through structured study groups and engaging activities, we aim to equip our community with the skills and insights needed to drive AI-driven innovations across various sectors.
+
+				We firmly believe that AI has the power to reshape and revolutionize almost every industry. By actively participating in the AI6 community, we are dedicated to spearheading this transformation and contributing to the realization of a future where AI is seamlessly integrated into our daily lives.</p>
+		</div>
+	</div>
 </section>
+
+
 
 <style>
 	.HERO-SECTION {
@@ -87,7 +105,9 @@ Large	lg	≥992px -->
 		background-color: #f8931f;
 		color: white;
 	}
-
+	.TRACKS{
+		margin-bottom: 4rem;
+	}
 	.TRACKS h3{
 		text-align: center;
 		color: black;
@@ -101,6 +121,11 @@ Large	lg	≥992px -->
 		color: #f8931f;
 
 	}
+
+	.ABOUT h5{
+		font-weight: bold;
+	}
+
 	/* Small Screens */
 	@media (max-width: 768px) {
 		.HERO-TEXT {
@@ -129,6 +154,11 @@ Large	lg	≥992px -->
 		
 		display: grid;
 		place-items: center;
+	}
+	.ABOUT .col-lg-6{
+		padding-left: 3rem;
+		padding-right: 3rem;
+
 	}
 	}
 </style>
