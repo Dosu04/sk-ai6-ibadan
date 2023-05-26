@@ -1,2 +1,2 @@
 # Ai6 Ibadan Official Website
-Sveltekit AI training platform
+Python and AI training platform made with Sveltekit and JSDocs
