@@ -1,2 +1,2 @@
-# Ai6 Ibadan Official Website
+# AI Saturdays Ibadan Official Website
 Python and AI training platform made with Sveltekit and JSDocs
